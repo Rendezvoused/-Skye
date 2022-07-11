@@ -20,7 +20,7 @@ body {
     line-height:250%;
     background-size:120%; /* change repeat to cover if you have a full img for ur background */
     overflow:hidden;
-    text-align:justify;
+    text-align:justify;cursor:url(https://i.postimg.cc/Px4ysW9f/tiny.png),auto;
 }
 		
 a {
@@ -42,7 +42,7 @@ a:hover {
     -moz-transition: all 0.8s ease-in-out;
     -o-transition: all 0.8s ease-in-out;
     -ms-transition: all 0.8s ease-in-out;
-    transition: all 0.8s ease-in-out;  
+    transition: all 0.8s ease-in-out;cursor:url(https://i.postimg.cc/Px4ysW9f/tiny.png),auto;  
 }
  
 blockquote {
